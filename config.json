@@ -1,0 +1,59 @@
+{
+  "project": {
+    "name": "Grazielly Duarte - Maquiadora Profissional",
+    "version": "1.0.0",
+    "description": "Site profissional para maquiadora em Portugal",
+    "author": "Desenvolvedor Web",
+    "technologies": ["HTML5", "CSS3", "JavaScript"],
+    "features": [
+      "Design responsivo",
+      "Formulários interativos",
+      "Galeria com filtros",
+      "Animações CSS",
+      "SEO otimizado",
+      "Acessibilidade"
+    ]
+  },
+  "contact": {
+    "phone": "+351 912 345 678",
+    "email": "ana.silva@email.com",
+    "location": "Lisboa, Portugal",
+    "social": {
+      "whatsapp": "https://wa.me/351912345678",
+      "instagram": "https://instagram.com/anasilva_makeup",
+      "facebook": "https://facebook.com/anasilvamakeup"
+    }
+  },
+  "services": [
+    {
+      "name": "Maquilhagem de Noiva",
+      "price": "A partir de 150€",
+      "description": "Look especial para o seu dia mais importante"
+    },
+    {
+      "name": "Maquilhagem para Eventos",
+      "price": "A partir de 80€",
+      "description": "Maquilhagem elegante para festas e eventos"
+    },
+    {
+      "name": "Maquilhagem Editorial",
+      "price": "A partir de 120€",
+      "description": "Looks criativos para sessões fotográficas"
+    },
+    {
+      "name": "Maquilhagem de Dia",
+      "price": "A partir de 60€",
+      "description": "Look natural e elegante para o dia-a-dia"
+    },
+    {
+      "name": "Maquilhagem de Noite",
+      "price": "A partir de 70€",
+      "description": "Look glamoroso e sofisticado"
+    },
+    {
+      "name": "Aulas de Maquilhagem",
+      "price": "A partir de 50€",
+      "description": "Aprenda técnicas profissionais"
+    }
+  ]
+} 

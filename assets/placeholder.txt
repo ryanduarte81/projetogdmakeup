@@ -1,0 +1,8 @@
+Esta pasta deve conter as seguintes imagens:
+
+1. hero-image.jpg - Imagem principal da página inicial
+2. about-image.jpg - Foto da maquiadora profissional
+3. gallery-1.jpg até gallery-6.jpg - Imagens da galeria
+4. favicon.ico - Ícone do site
+
+Todas as imagens devem ser otimizadas para web (formato JPG/PNG, tamanho adequado). 
